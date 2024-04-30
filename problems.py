@@ -1,5 +1,5 @@
 #print length of string without using the len function
-"""
+
 s = input('enter the string')
 count=0
 
@@ -29,7 +29,7 @@ for i in s:
     if i!=term:
         result = result+i
 print(result)  
-"""
+
 #check string is palindrome
 #abba
 flag=True
